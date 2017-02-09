@@ -1,0 +1,4 @@
+The beam has h = 12.000 in, w = 5.500 in, and t = 0.663 in.
+These dimensions yield A = 14.36 in^2, I = 301.61 in^4 and total beam
+weight = 978.76 lb.
+The stress is 23872.05 psi.
